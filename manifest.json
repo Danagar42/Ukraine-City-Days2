@@ -1,0 +1,16 @@
+{
+  "name": "Дні міст України",
+  "short_name": "Дні Міст",
+  "start_url": "./Міста.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0057b7",
+  "description": "Інтерактивний календар днів міст України",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/COA_of_Kyiv_Kurovskyi.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
